@@ -13,7 +13,7 @@ The daiquiry library provides an easy way to configure logging. It also
 provides some custom formatters and handlers.
 
 * Free software: Apache license
-* Source: https://github.com/jd/daiquiry
+* Source: https://github.com/khulnasoft-lab/daiquiry
 
 Installation
 ============
